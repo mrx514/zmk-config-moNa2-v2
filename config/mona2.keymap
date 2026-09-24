@@ -297,7 +297,7 @@
         win_layer {
             display-name = "WIN";
             bindings = <
-&kp Q             &kp W         &kp E         &kp R        &kp T                                              &kp Y      &kp U  &kp I      &kp O    &kp P
+&lt 10 Q          &kp W         &kp E         &kp R        &kp T                                              &kp Y      &kp U  &kp I      &kp O    &kp P
 &lt 6 A           &lt 4 S       &kp D         &kp F        &kp G                              &kp UP_ARROW    &kp H      &kp J  &kp K      &lt 8 L  &lt 6 MINUS
 &mt LEFT_SHIFT Z  &kp X         &kp C         &kp V        &kp B           &kp DEL            &kp DOWN_ARROW  &kp N      &kp M  &kp COMMA  &kp DOT  &mt RIGHT_SHIFT SLASH
 &kp RCTRL         &kp LEFT_WIN  &kp LEFT_ALT  &lt 4 SPACE  &kp LEFT_ARROW  &kp RIGHT_ARROW    &kp BACKSPACE   &lt 2 RET                             &mt RIGHT_CONTROL EQUAL
