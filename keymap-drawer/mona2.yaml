@@ -516,3 +516,24 @@ layers:
   - {t: ▽, type: trans}
   - '&bootloader'
   - BT CLR ALL
+combos:
+- p: [0, 1]
+  k: ESCAPE
+- p: [10, 11]
+  k: TAB
+- p: [21, 22]
+  k: LSHFT
+- p: [17, 18]
+  k: '&mkp LCLK'
+- p: [18, 19]
+  k: '&mkp RCLK'
+- p: [8, 9]
+  k: Sft+-
+- p: [11, 12]
+  k: Sft+TAB
+- p: [6, 5]
+  k: '!'
+- p: [32, 31]
+  k: '?'
+- p: [6, 7, 8]
+  k: Sft+Gui+S
