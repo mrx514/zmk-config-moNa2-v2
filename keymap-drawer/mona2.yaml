@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: mona2}
 layers:
   WIN:
-  - Q
+  - {t: Q, h: BLE_W}
   - W
   - E
   - R
@@ -431,7 +431,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   BLE_W:
-  - F1
+  - {t: F1, type: held}
   - F2
   - F3
   - F4
